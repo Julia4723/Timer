@@ -52,13 +52,14 @@ struct LoginView: View {
         }
     }
     
-    
+    //считаем количество букв в строке ввода
     func counterLetters(in text: String) -> Int {
         return text.filter { $0.isLetter }.count
     }
     
+    //возвращает тру если количество букв больше 2
     func characterCount(character: String) -> Bool {
-        character.count <= 2
+        character.count < 2
     }
     
     

@@ -16,7 +16,6 @@
 		CE8615C82BF4ECD500EDCCC0 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8615C72BF4ECD500EDCCC0 /* UserManager.swift */; };
 		CE8615CA2BF4F27A00EDCCC0 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8615C92BF4F27A00EDCCC0 /* RootView.swift */; };
 		CE8615CE2BF5D98000EDCCC0 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8615CD2BF5D98000EDCCC0 /* StorageManager.swift */; };
-		CE8615F02BF75D6A00EDCCC0 /* CharacterCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8615EF2BF75D6A00EDCCC0 /* CharacterCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +29,6 @@
 		CE8615C72BF4ECD500EDCCC0 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
 		CE8615C92BF4F27A00EDCCC0 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		CE8615CD2BF5D98000EDCCC0 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
-		CE8615EF2BF75D6A00EDCCC0 /* CharacterCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +67,6 @@
 				CE8615C92BF4F27A00EDCCC0 /* RootView.swift */,
 				CE8615C72BF4ECD500EDCCC0 /* UserManager.swift */,
 				CE8615C32BF4DC6700EDCCC0 /* TimeCounter.swift */,
-				CE8615EF2BF75D6A00EDCCC0 /* CharacterCounter.swift */,
 				CE8615CD2BF5D98000EDCCC0 /* StorageManager.swift */,
 				CE8615B92BF4D17B00EDCCC0 /* Assets.xcassets */,
 				CE8615BB2BF4D17B00EDCCC0 /* Preview Content */,
@@ -161,7 +158,6 @@
 				CE8615C62BF4E5F200EDCCC0 /* LoginView.swift in Sources */,
 				CE8615C82BF4ECD500EDCCC0 /* UserManager.swift in Sources */,
 				CE8615B62BF4D17900EDCCC0 /* TimerApp.swift in Sources */,
-				CE8615F02BF75D6A00EDCCC0 /* CharacterCounter.swift in Sources */,
 				CE8615CE2BF5D98000EDCCC0 /* StorageManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

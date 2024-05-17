@@ -8,11 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
-    //только если класс подписан под протокол ObservableObject. нельзя создать более одного объекта этого типа данных. Единственный источник данных. Работает с объектами класса
     @State private var timer = TimeCounter()
 
     @EnvironmentObject private var userManager: UserManager
-   // @AppStorage ("isLoggedIn") var isLoggedIn: Bool = true
+ 
     
     
     
