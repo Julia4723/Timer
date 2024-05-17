@@ -7,7 +7,7 @@
 
 
 struct User {
-    
+    var isLoggedIn = false
     var name = ""
 }
 
